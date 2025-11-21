@@ -1,0 +1,8 @@
+.vscode
+__pycache__
+fixtures.json
+stake.py 
+test.py
+pipeline_test.py
+config/config.py
+config/ips-datacenter_proxy_betty.csv

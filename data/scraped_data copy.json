@@ -1,0 +1,1023 @@
+{
+    "last_update": "2025-11-06",
+    "data": [
+        {
+            "event": "FAR Rabat - FUS Rabat",
+            "avg_gol": 2.6,
+            "pred": "1",
+            "ex_sc": "2 - 1",
+            "leage": "Marruecos Botola Pro",
+            "participant1Name": "FAR Rabat",
+            "participant2Name": "FUS Rabat"
+        },
+        
+        {
+            "event": "Reading - Stevenage",
+            "avg_gol": 1.54,
+            "pred": "2",
+            "ex_sc": "0 - 1",
+            "leage": "Inglaterra League One",
+            "participant1Name": "Reading",
+            "participant2Name": "Stevenage"
+        },
+        {
+            "event": "Rangers - Roma",
+            "avg_gol": 1.82,
+            "pred": "2",
+            "ex_sc": "0 - 1",
+            "leage": " Europa League",
+            "participant1Name": "Rangers",
+            "participant2Name": "Roma"
+        },
+        {
+            "event": "PAOK - Young Boys",
+            "avg_gol": 2.31,
+            "pred": "X",
+            "ex_sc": "0 - 0",
+            "leage": " Europa League",
+            "participant1Name": "PAOK",
+            "participant2Name": "Young Boys"
+        },
+        {
+            "event": "Stuttgart - Feyenoord",
+            "avg_gol": 2.22,
+            "pred": "1",
+            "ex_sc": "1 - 0",
+            "leage": " Europa League",
+            "participant1Name": "Stuttgart",
+            "participant2Name": "Feyenoord"
+        },
+        {
+            "event": "Ferencvaros - Ludogorets",
+            "avg_gol": 2.82,
+            "pred": "1",
+            "ex_sc": "3 - 0",
+            "leage": " Europa League",
+            "participant1Name": "Ferencvaros",
+            "participant2Name": "Ludogorets"
+        },
+        {
+            "event": "Viktoria Plzen - Fenerbah\u00e7e",
+            "avg_gol": 2.2,
+            "pred": "X",
+            "ex_sc": "1 - 1",
+            "leage": " Europa League",
+            "participant1Name": "Viktoria Plzen",
+            "participant2Name": "Fenerbah\u00e7e"
+        },
+        {
+            "event": "Real Betis - Lyon",
+            "avg_gol": 2.01,
+            "pred": "X",
+            "ex_sc": "1 - 1",
+            "leage": " Europa League",
+            "participant1Name": "Real Betis",
+            "participant2Name": "Lyon"
+        },
+        {
+            "event": "Aston Villa - Maccabi Tel Aviv",
+            "avg_gol": 1.93,
+            "pred": "1",
+            "ex_sc": "1 - 0",
+            "leage": " Europa League",
+            "participant1Name": "Aston Villa",
+            "participant2Name": "Maccabi Tel Aviv"
+        },
+        {
+            "event": "Bologna - Brann",
+            "avg_gol": 2.39,
+            "pred": "1",
+            "ex_sc": "2 - 0",
+            "leage": " Europa League",
+            "participant1Name": "Bologna",
+            "participant2Name": "Brann"
+        },
+        {
+            "event": "Sporting Braga - Racing Genk",
+            "avg_gol": 2.37,
+            "pred": "X",
+            "ex_sc": "1 - 1",
+            "leage": " Europa League",
+            "participant1Name": "Sporting Braga",
+            "participant2Name": "Racing Genk"
+        },
+        {
+            "event": "Shkendija 79 - Jagiellonia",
+            "avg_gol": 1.76,
+            "pred": "2",
+            "ex_sc": "0 - 1",
+            "leage": " Liga Europa Conferencia de la UEFA",
+            "participant1Name": "Shkendija 79",
+            "participant2Name": "Jagiellonia"
+        },
+        
+        {
+            "event": "Lincoln Red Imps - Rijeka",
+            "avg_gol": 3.47,
+            "pred": "1",
+            "ex_sc": "3 - 1",
+            "leage": " Liga Europa Conferencia de la UEFA",
+            "participant1Name": "Lincoln Red Imps",
+            "participant2Name": "Rijeka"
+        },
+        {
+            "event": "Crystal Palace - AZ Alkmaar",
+            "avg_gol": 2.16,
+            "pred": "1",
+            "ex_sc": "1 - 0",
+            "leage": " Liga Europa Conferencia de la UEFA",
+            "participant1Name": "Crystal Palace",
+            "participant2Name": "AZ Alkmaar"
+        },
+        {
+            "event": "Rayo Vallecano - Lech Poznan",
+            "avg_gol": 2.18,
+            "pred": "1",
+            "ex_sc": "1 - 0",
+            "leage": " Liga Europa Conferencia de la UEFA",
+            "participant1Name": "Rayo Vallecano",
+            "participant2Name": "Lech Poznan"
+        },
+        {
+            "event": "Rapid Wien - CS Univ Craiova",
+            "avg_gol": 2.61,
+            "pred": "X",
+            "ex_sc": "3 - 3",
+            "leage": " Liga Europa Conferencia de la UEFA",
+            "participant1Name": "Rapid Wien",
+            "participant2Name": "CS Univ Craiova"
+        },
+        {
+            "event": "Dynamo Kyiv - Zrinjski Mostar",
+            "avg_gol": 2.8,
+            "pred": "1",
+            "ex_sc": "3 - 1",
+            "leage": " Liga Europa Conferencia de la UEFA",
+            "participant1Name": "Dynamo Kyiv",
+            "participant2Name": "Zrinjski Mostar"
+        },
+        {
+            "event": "H\u00e4cken - Strasbourg",
+            "avg_gol": 3.81,
+            "pred": "2",
+            "ex_sc": "0 - 3",
+            "leage": " Liga Europa Conferencia de la UEFA",
+            "participant1Name": "H\u00e4cken",
+            "participant2Name": "Strasbourg"
+        },
+        {
+            "event": "Shelbourne FC - Drita",
+            "avg_gol": 1.93,
+            "pred": "1",
+            "ex_sc": "1 - 0",
+            "leage": " Liga Europa Conferencia de la UEFA",
+            "participant1Name": "Shelbourne FC",
+            "participant2Name": "Drita"
+        },
+        {
+            "event": "Jalapa ART - Rancho Santana",
+            "avg_gol": 2.8,
+            "pred": "1",
+            "ex_sc": "2 - 1",
+            "leage": "Nicaragua Primera Division",
+            "participant1Name": "Jalapa ART",
+            "participant2Name": "Rancho Santana"
+        },
+        {
+            "event": "Fluminense - Mirassol SP",
+            "avg_gol": 2.25,
+            "pred": "2",
+            "ex_sc": "0 - 2",
+            "leage": "Brasil Brasileiro Serie A",
+            "participant1Name": "Fluminense",
+            "participant2Name": "Mirassol SP"
+        },
+        {
+            "event": "Cear\u00e1 SC - Fortaleza",
+            "avg_gol": 1.96,
+            "pred": "1",
+            "ex_sc": "1 - 0",
+            "leage": "Brasil Brasileiro Serie A",
+            "participant1Name": "Cear\u00e1 SC",
+            "participant2Name": "Fortaleza"
+        },
+        {
+            "event": "Bol\u00edvar - Aurora FC",
+            "avg_gol": 3.65,
+            "pred": "1",
+            "ex_sc": "3 - 0",
+            "leage": "Bolivia Divisi\u00f3n Profesional",
+            "participant1Name": "Bol\u00edvar",
+            "participant2Name": "Aurora FC"
+        },
+        {
+            "event": "Deportivo Guastatoya - Deportivo Mixco",
+            "avg_gol": 2.35,
+            "pred": "2",
+            "ex_sc": "0 - 2",
+            "leage": "Guatemala Liga Nacional",
+            "participant1Name": "Deportivo Guastatoya",
+            "participant2Name": "Deportivo Mixco"
+        },
+        {
+            "event": "Real Madriz - Diriang\u00e9n FC",
+            "avg_gol": 1.9,
+            "pred": "2",
+            "ex_sc": "0 - 2",
+            "leage": "Nicaragua Primera Division",
+            "participant1Name": "Real Madriz",
+            "participant2Name": "Diriang\u00e9n FC"
+        },
+        {
+            "event": "Boyac\u00e1 Chic\u00f3 - Am\u00e9rica de Cali",
+            "avg_gol": 2.27,
+            "pred": "2",
+            "ex_sc": "0 - 2",
+            "leage": "Colombia Primera A",
+            "participant1Name": "Boyac\u00e1 Chic\u00f3",
+            "participant2Name": "Am\u00e9rica de Cali"
+        },
+        {
+            "event": "CSKA Moscow U19 - Spartak Moskva U19",
+            "avg_gol": 2.88,
+            "pred": "1",
+            "ex_sc": "3 - 2",
+            "leage": "Rusia Youth League",
+            "participant1Name": "CSKA Moscow U19",
+            "participant2Name": "Spartak Moskva U19"
+        },
+        {
+            "event": "Palmeiras - Santos",
+            "avg_gol": 2.98,
+            "pred": "1",
+            "ex_sc": "2 - 1",
+            "leage": "Brasil Brasileiro Serie A",
+            "participant1Name": "Palmeiras",
+            "participant2Name": "Santos"
+        },
+        {
+            "event": "Real Estel\u00ed - H&H Export",
+            "avg_gol": 2.44,
+            "pred": "1",
+            "ex_sc": "2 - 0",
+            "leage": "Nicaragua Primera Division",
+            "participant1Name": "Real Estel\u00ed",
+            "participant2Name": "H&H Export"
+        },
+        {
+            "event": "CSD Municipal - Deportivo Mictl\u00e1n",
+            "avg_gol": 3.44,
+            "pred": "1",
+            "ex_sc": "2 - 1",
+            "leage": "Guatemala Liga Nacional",
+            "participant1Name": "CSD Municipal",
+            "participant2Name": "Deportivo Mictl\u00e1n"
+        },
+        {
+            "event": "Venados Yucat\u00e1n - Tlaxcala",
+            "avg_gol": 1.74,
+            "pred": "X",
+            "ex_sc": "1 - 1",
+            "leage": "M\u00e9xico Liga de Expansion MX",
+            "participant1Name": "Venados Yucat\u00e1n",
+            "participant2Name": "Tlaxcala"
+        },
+        {
+            "event": "Perth Glory W - Brisbane Roar W",
+            "avg_gol": 3.18,
+            "pred": "2",
+            "ex_sc": "1 - 2",
+            "leage": "Australia A-League Women",
+            "participant1Name": "Perth Glory W",
+            "participant2Name": "Brisbane Roar W"
+        },
+        {
+            "event": "Bhayangkara Utd - Bali United Pusam",
+            "avg_gol": 2.77,
+            "pred": "1",
+            "ex_sc": "3 - 2",
+            "leage": "Indonesia Liga 1",
+            "participant1Name": "Bhayangkara Utd",
+            "participant2Name": "Bali United Pusam"
+        },
+        {
+            "event": "Adelaide United - WS Wanderers",
+            "avg_gol": 2.3,
+            "pred": "X",
+            "ex_sc": "1 - 1",
+            "leage": "Australia A-League",
+            "participant1Name": "Adelaide United",
+            "participant2Name": "WS Wanderers"
+        },
+        
+        
+        
+        {
+            "event": "Saburtalo Tbilisi 2 - Sioni Bolnisi",
+            "avg_gol": 1.96,
+            "pred": "X",
+            "ex_sc": "1 - 1",
+            "leage": "Georgia Erovnuli Liga 2",
+            "participant1Name": "Saburtalo Tbilisi 2",
+            "participant2Name": "Sioni Bolnisi"
+        },
+        {
+            "event": "Nizhny Novgorod U19 - Baltika U19",
+            "avg_gol": 3.25,
+            "pred": "1",
+            "ex_sc": "3 - 1",
+            "leage": "Rusia Youth League",
+            "participant1Name": "Nizhny Novgorod U19",
+            "participant2Name": "Baltika U19"
+        },
+        {
+            "event": "Kolos Kovalivka II - FK Trostyanets",
+            "avg_gol": 2.33,
+            "pred": "2",
+            "ex_sc": "0 - 2",
+            "leage": "Ucrania Druha Liga",
+            "participant1Name": "Kolos Kovalivka II",
+            "participant2Name": "FK Trostyanets"
+        },
+        {
+            "event": "Hapoel Kfar Shalem - Kafr Qasim",
+            "avg_gol": 2.0,
+            "pred": "X",
+            "ex_sc": "1 - 1",
+            "leage": "Israel Liga Leumit",
+            "participant1Name": "Hapoel Kfar Shalem",
+            "participant2Name": "Kafr Qasim"
+        },
+        {
+            "event": "FC Fastav Zlin U19 - Karvina U19",
+            "avg_gol": 3.7,
+            "pred": "2",
+            "ex_sc": "1 - 3",
+            "leage": "Rep\u00fablica Checa U19 League",
+            "participant1Name": "FC Fastav Zlin U19",
+            "participant2Name": "Karvina U19"
+        },
+        {
+            "event": "MS Jerusalem - Ironi Kiryat Gat",
+            "avg_gol": 1.5,
+            "pred": "2",
+            "ex_sc": "0 - 1",
+            "leage": "Israel Liga Alef South",
+            "participant1Name": "MS Jerusalem",
+            "participant2Name": "Ironi Kiryat Gat"
+        },
+        {
+            "event": "Hapoel Marmorek - Nordia Jerusalem",
+            "avg_gol": 3.3,
+            "pred": "X",
+            "ex_sc": "2 - 2",
+            "leage": "Israel Liga Alef South",
+            "participant1Name": "Hapoel Marmorek",
+            "participant2Name": "Nordia Jerusalem"
+        },
+        {
+            "event": "Perth Glory - CC Mariners",
+            "avg_gol": 2.75,
+            "pred": "2",
+            "ex_sc": "1 - 2",
+            "leage": "Australia A-League",
+            "participant1Name": "Perth Glory",
+            "participant2Name": "CC Mariners"
+        },
+        {
+            "event": "Oleksandria II - Penuel",
+            "avg_gol": 2.38,
+            "pred": "X",
+            "ex_sc": "1 - 1",
+            "leage": "Ucrania Druha Liga",
+            "participant1Name": "Oleksandria II",
+            "participant2Name": "Penuel"
+        },
+        {
+            "event": "Sariyer SK - Van BB",
+            "avg_gol": 2.63,
+            "pred": "2",
+            "ex_sc": "1 - 2",
+            "leage": "Turqu\u00eda TFF 1. Lig",
+            "participant1Name": "Sariyer SK",
+            "participant2Name": "Van BB"
+        },
+        {
+            "event": "Tanjong Pagar Utd - Hougang United",
+            "avg_gol": 3.35,
+            "pred": "2",
+            "ex_sc": "1 - 2",
+            "leage": "Singapur S-Cup",
+            "participant1Name": "Tanjong Pagar Utd",
+            "participant2Name": "Hougang United"
+        },
+        {
+            "event": "Nyva Ternopil II - FK Uzhhorod",
+            "avg_gol": 1.67,
+            "pred": "2",
+            "ex_sc": "0 - 1",
+            "leage": "Ucrania Druha Liga",
+            "participant1Name": "Nyva Ternopil II",
+            "participant2Name": "FK Uzhhorod"
+        },
+        {
+            "event": "Persik Kediri - Persebaya Surabaya",
+            "avg_gol": 1.94,
+            "pred": "X",
+            "ex_sc": "1 - 1",
+            "leage": "Indonesia Liga 1",
+            "participant1Name": "Persik Kediri",
+            "participant2Name": "Persebaya Surabaya"
+        },
+        {
+            "event": "Prachuap - Lamphun Warrior",
+            "avg_gol": 2.83,
+            "pred": "1",
+            "ex_sc": "2 - 1",
+            "leage": "Tailandia Premier League",
+            "participant1Name": "Prachuap",
+            "participant2Name": "Lamphun Warrior"
+        },
+        {
+            "event": "Chadormalu SC - Aluminium Arak",
+            "avg_gol": 1.58,
+            "pred": "X",
+            "ex_sc": "0 - 0",
+            "leage": "Iran Persian Gulf Pro League",
+            "participant1Name": "Chadormalu SC",
+            "participant2Name": "Aluminium Arak"
+        },
+        {
+            "event": "Crystal Palace U21 - Stoke City U23s",
+            "avg_gol": 3.58,
+            "pred": "2",
+            "ex_sc": "1 - 3",
+            "leage": "Inglaterra Premier League 2",
+            "participant1Name": "Crystal Palace U21",
+            "participant2Name": "Stoke City U23s"
+        },
+        {
+            "event": "Mebrat Hayl - Negele Arsi Ketema",
+            "avg_gol": 1.33,
+            "pred": "1",
+            "ex_sc": "1 - 0",
+            "leage": "Etiop\u00eda Premier League",
+            "participant1Name": "Mebrat Hayl",
+            "participant2Name": "Negele Arsi Ketema"
+        },
+        {
+            "event": "Belarus W U19 - Dinamo Brest W",
+            "avg_gol": 3.39,
+            "pred": "1",
+            "ex_sc": "3 - 1",
+            "leage": "Bielorrusia Vysshaya Liga Women",
+            "participant1Name": "Belarus W U19",
+            "participant2Name": "Dinamo Brest W"
+        },
+        {
+            "event": "Nakhon Si United - Phrae United",
+            "avg_gol": 3.5,
+            "pred": "2",
+            "ex_sc": "1 - 3",
+            "leage": "Tailandia Thai League 2",
+            "participant1Name": "Nakhon Si United",
+            "participant2Name": "Phrae United"
+        },
+        
+        {
+            "event": "Lokomotiv Moskva U19 - Sochi U19",
+            "avg_gol": 2.58,
+            "pred": "1",
+            "ex_sc": "3 - 0",
+            "leage": "Rusia Youth League",
+            "participant1Name": "Lokomotiv Moskva U19",
+            "participant2Name": "Sochi U19"
+        },
+        {
+            "event": "Rubin Kazan U19 - Zenit U19",
+            "avg_gol": 3.75,
+            "pred": "2",
+            "ex_sc": "1 - 3",
+            "leage": "Rusia Youth League",
+            "participant1Name": "Rubin Kazan U19",
+            "participant2Name": "Zenit U19"
+        },
+        {
+            "event": "Akademiya Konoplev U20 - Krasnodar U19",
+            "avg_gol": 4.0,
+            "pred": "2",
+            "ex_sc": "1 - 3",
+            "leage": "Rusia Youth League",
+            "participant1Name": "Akademiya Konoplev U20",
+            "participant2Name": "Krasnodar U19"
+        },
+        {
+            "event": "Fakel U19 - Akhmat Grozny U19",
+            "avg_gol": 3.04,
+            "pred": "1",
+            "ex_sc": "2 - 1",
+            "leage": "Rusia Youth League",
+            "participant1Name": "Fakel U19",
+            "participant2Name": "Akhmat Grozny U19"
+        },
+        {
+            "event": "Reyady Abaseya - Al Ansar Club",
+            "avg_gol": 3.0,
+            "pred": "2",
+            "ex_sc": "0 - 4",
+            "leage": "L\u00edbano Premier League",
+            "participant1Name": "Reyady Abaseya",
+            "participant2Name": "Al Ansar Club"
+        },
+        {
+            "event": "CSKA II Sofia - Minyor Pernik",
+            "avg_gol": 3.58,
+            "pred": "1",
+            "ex_sc": "3 - 1",
+            "leage": "Bulgaria Vtora Liga",
+            "participant1Name": "CSKA II Sofia",
+            "participant2Name": "Minyor Pernik"
+        },
+        {
+            "event": "OFK Mal\u017eenice - FK Pohronie",
+            "avg_gol": 2.1,
+            "pred": "X",
+            "ex_sc": "1 - 1",
+            "leage": "Eslovaquia 2. Liga",
+            "participant1Name": "OFK Mal\u017eenice",
+            "participant2Name": "FK Pohronie"
+        },
+        {
+            "event": "Al Ta'i - Al Wahda Mecca",
+            "avg_gol": 3.45,
+            "pred": "1",
+            "ex_sc": "3 - 1",
+            "leage": "Arabia Saudita 1st Division",
+            "participant1Name": "Al Ta'i",
+            "participant2Name": "Al Wahda Mecca"
+        },
+        {
+            "event": "Gabala FC - Sumqayit FK",
+            "avg_gol": 1.79,
+            "pred": "2",
+            "ex_sc": "0 - 1",
+            "leage": "Azerbaiy\u00e1n Premier League",
+            "participant1Name": "Gabala FC",
+            "participant2Name": "Sumqayit FK"
+        },
+        {
+            "event": "Al Jazira Al Hamra - Al Arabi (UAE)",
+            "avg_gol": 2.51,
+            "pred": "2",
+            "ex_sc": "0 - 3",
+            "leage": "EAU Division 1",
+            "participant1Name": "Al Jazira Al Hamra",
+            "participant2Name": "Al Arabi (UAE)"
+        },
+        {
+            "event": "Hatta Club - Gulf United",
+            "avg_gol": 3.42,
+            "pred": "1",
+            "ex_sc": "3 - 1",
+            "leage": "EAU Division 1",
+            "participant1Name": "Hatta Club",
+            "participant2Name": "Gulf United"
+        },
+        {
+            "event": "Al Dahra - Al Oruba (UAE)",
+            "avg_gol": 2.3,
+            "pred": "X",
+            "ex_sc": "1 - 1",
+            "leage": "EAU Division 1",
+            "participant1Name": "Al Dahra",
+            "participant2Name": "Al Oruba (UAE)"
+        },
+        {
+            "event": "Dubba Al Husun - Dubai United",
+            "avg_gol": 1.33,
+            "pred": "1",
+            "ex_sc": "1 - 0",
+            "leage": "EAU Division 1",
+            "participant1Name": "Dubba Al Husun",
+            "participant2Name": "Dubai United"
+        },
+        {
+            "event": "Al Fujairah Club - Masfoot",
+            "avg_gol": 2.81,
+            "pred": "X",
+            "ex_sc": "2 - 2",
+            "leage": "EAU Division 1",
+            "participant1Name": "Al Fujairah Club",
+            "participant2Name": "Masfoot"
+        },
+        {
+            "event": "Spartak Varna - Septemvri Sofia",
+            "avg_gol": 2.95,
+            "pred": "1",
+            "ex_sc": "3 - 0",
+            "leage": "Bulgaria Parva Liga",
+            "participant1Name": "Spartak Varna",
+            "participant2Name": "Septemvri Sofia"
+        },
+        {
+            "event": "Orijent Rijeka - Rude\u0161 Zagreb",
+            "avg_gol": 2.11,
+            "pred": "2",
+            "ex_sc": "0 - 1",
+            "leage": "Croacia Prva NL",
+            "participant1Name": "Orijent Rijeka",
+            "participant2Name": "Rude\u0161 Zagreb"
+        },
+        {
+            "event": "FC Gomel - Dinamo Brest",
+            "avg_gol": 2.65,
+            "pred": "2",
+            "ex_sc": "1 - 2",
+            "leage": "Bielorrusia Vysshaya Liga",
+            "participant1Name": "FC Gomel",
+            "participant2Name": "Dinamo Brest"
+        },
+        {
+            "event": "Persepolis FC - Esteghlal Khuzestan",
+            "avg_gol": 2.28,
+            "pred": "X",
+            "ex_sc": "1 - 1",
+            "leage": "Iran Persian Gulf Pro League",
+            "participant1Name": "Persepolis FC",
+            "participant2Name": "Esteghlal Khuzestan"
+        },
+        {
+            "event": "Fajr Sepasi - Mes Rafsanjan",
+            "avg_gol": 2.04,
+            "pred": "1",
+            "ex_sc": "1 - 0",
+            "leage": "Iran Persian Gulf Pro League",
+            "participant1Name": "Fajr Sepasi",
+            "participant2Name": "Mes Rafsanjan"
+        },
+        {
+            "event": "Livyi Bereh Kyiv - Inhulets Petrove",
+            "avg_gol": 2.0,
+            "pred": "2",
+            "ex_sc": "0 - 1",
+            "leage": "Ucrania Persha Liga",
+            "participant1Name": "Livyi Bereh Kyiv",
+            "participant2Name": "Inhulets Petrove"
+        },
+        {
+            "event": "FC AGMK - Navbahor",
+            "avg_gol": 2.18,
+            "pred": "X",
+            "ex_sc": "1 - 1",
+            "leage": "Uzbekist\u00e1n Liga de f\u00fatbol",
+            "participant1Name": "FC AGMK",
+            "participant2Name": "Navbahor"
+        },
+        {
+            "event": "Buxoro FK - Neftchi Fergana",
+            "avg_gol": 2.66,
+            "pred": "2",
+            "ex_sc": "1 - 2",
+            "leage": "Uzbekist\u00e1n Liga de f\u00fatbol",
+            "participant1Name": "Buxoro FK",
+            "participant2Name": "Neftchi Fergana"
+        },
+        {
+            "event": "FC Nazareth Ilit - Maccabi Petah Tikva",
+            "avg_gol": 2.66,
+            "pred": "2",
+            "ex_sc": "0 - 3",
+            "leage": "Israel Liga Leumit",
+            "participant1Name": "FC Nazareth Ilit",
+            "participant2Name": "Maccabi Petah Tikva"
+        },
+        {
+            "event": "Hapoel Raanana - Bnei Yehuda",
+            "avg_gol": 3.19,
+            "pred": "1",
+            "ex_sc": "2 - 1",
+            "leage": "Israel Liga Leumit",
+            "participant1Name": "Hapoel Raanana",
+            "participant2Name": "Bnei Yehuda"
+        },
+        {
+            "event": "Maccabi Herzliya - Hapoel Acre",
+            "avg_gol": 2.94,
+            "pred": "1",
+            "ex_sc": "2 - 1",
+            "leage": "Israel Liga Leumit",
+            "participant1Name": "Maccabi Herzliya",
+            "participant2Name": "Hapoel Acre"
+        },
+        {
+            "event": "Hapoel Kfar Saba - Hapoel Ramat Gan",
+            "avg_gol": 2.67,
+            "pred": "1",
+            "ex_sc": "2 - 1",
+            "leage": "Israel Liga Leumit",
+            "participant1Name": "Hapoel Kfar Saba",
+            "participant2Name": "Hapoel Ramat Gan"
+        },
+        {
+            "event": "Middlesbrough U23s - Norwich U23s",
+            "avg_gol": 2.72,
+            "pred": "2",
+            "ex_sc": "1 - 2",
+            "leage": "Inglaterra Premier League 2",
+            "participant1Name": "Middlesbrough U23s",
+            "participant2Name": "Norwich U23s"
+        },
+        {
+            "event": "Vital'O FC - Flambeau du Centre",
+            "avg_gol": 2.08,
+            "pred": "X",
+            "ex_sc": "1 - 1",
+            "leage": "Burundi Primus League",
+            "participant1Name": "Vital'O FC",
+            "participant2Name": "Flambeau du Centre"
+        },
+        {
+            "event": "Calvary - Gaddafi FC",
+            "avg_gol": 0.5,
+            "pred": "X",
+            "ex_sc": "1 - 1",
+            "leage": "Uganda Premier League",
+            "participant1Name": "Calvary",
+            "participant2Name": "Gaddafi FC"
+        },
+        {
+            "event": "KS Burreli - KS Pogradeci",
+            "avg_gol": 2.15,
+            "pred": "2",
+            "ex_sc": "0 - 2",
+            "leage": "Albania League 1",
+            "participant1Name": "KS Burreli",
+            "participant2Name": "KS Pogradeci"
+        },
+        {
+            "event": "AS Kigali - Police FC (RWA)",
+            "avg_gol": 2.32,
+            "pred": "2",
+            "ex_sc": "0 - 2",
+            "leage": "Ruanda Premier League",
+            "participant1Name": "AS Kigali",
+            "participant2Name": "Police FC (RWA)"
+        },
+        {
+            "event": "Ma'an SC - Shabab Al Urdun",
+            "avg_gol": 2.05,
+            "pred": "1",
+            "ex_sc": "1 - 0",
+            "leage": "Jordania Jordan Cup",
+            "participant1Name": "Ma'an SC",
+            "participant2Name": "Shabab Al Urdun"
+        },
+        {
+            "event": "Mied\u017a Legnica II - Zag\u0142\u0119bie Lubin II",
+            "avg_gol": 2.63,
+            "pred": "2",
+            "ex_sc": "1 - 2",
+            "leage": "Polonia III Liga Group III",
+            "participant1Name": "Mied\u017a Legnica II",
+            "participant2Name": "Zag\u0142\u0119bie Lubin II"
+        },
+        {
+            "event": "Sleza Wroclaw - Pniowek Pawlowice",
+            "avg_gol": 3.2,
+            "pred": "1",
+            "ex_sc": "2 - 1",
+            "leage": "Polonia III Liga Group III",
+            "participant1Name": "Sleza Wroclaw",
+            "participant2Name": "Pniowek Pawlowice"
+        },
+        {
+            "event": "Al Feiha - Al Akhdood",
+            "avg_gol": 2.5,
+            "pred": "1",
+            "ex_sc": "3 - 0",
+            "leage": "Arabia Saudita Professional League",
+            "participant1Name": "Al Feiha",
+            "participant2Name": "Al Akhdood"
+        },
+        {
+            "event": "Al Ahli Manama - Bahrain Club",
+            "avg_gol": 3.18,
+            "pred": "1",
+            "ex_sc": "3 - 0",
+            "leage": "Bar\u00e9in Premier League",
+            "participant1Name": "Al Ahli Manama",
+            "participant2Name": "Bahrain Club"
+        },
+        
+        {
+            "event": "Sporting Club de Moknine - Djelma",
+            "avg_gol": 0.83,
+            "pred": "X",
+            "ex_sc": "0 - 0",
+            "leage": "T\u00fanez Ligue Professionnelle 2",
+            "participant1Name": "Sporting Club de Moknine",
+            "participant2Name": "Djelma"
+        },
+        {
+            "event": "EM Mahdia - AS Agareb",
+            "avg_gol": 1.13,
+            "pred": "1",
+            "ex_sc": "1 - 0",
+            "leage": "T\u00fanez Ligue Professionnelle 2",
+            "participant1Name": "EM Mahdia",
+            "participant2Name": "AS Agareb"
+        },
+        
+        {
+            "event": "OC Kerkennah - AMS M\u00e9grine",
+            "avg_gol": 1.5,
+            "pred": "1",
+            "ex_sc": "2 - 0",
+            "leage": "T\u00fanez Ligue Professionnelle 2",
+            "participant1Name": "OC Kerkennah",
+            "participant2Name": "AMS M\u00e9grine"
+        },
+        {
+            "event": "SA Menzel Bourguiba - Union Tataouine",
+            "avg_gol": 0.67,
+            "pred": "2",
+            "ex_sc": "0 - 1",
+            "leage": "T\u00fanez Ligue Professionnelle 2",
+            "participant1Name": "SA Menzel Bourguiba",
+            "participant2Name": "Union Tataouine"
+        },
+        
+        {
+            "event": "Bouchamma - Redeyef",
+            "avg_gol": 1.5,
+            "pred": "1",
+            "ex_sc": "1 - 0",
+            "leage": "T\u00fanez Ligue Professionnelle 2",
+            "participant1Name": "Bouchamma",
+            "participant2Name": "Redeyef"
+        },
+        {
+            "event": "Highbury - Venda FA",
+            "avg_gol": 1.75,
+            "pred": "X",
+            "ex_sc": "0 - 0",
+            "leage": "Sud\u00e1frica National First Division",
+            "participant1Name": "Highbury",
+            "participant2Name": "Venda FA"
+        },
+        {
+            "event": "Casric Stars - Upington City",
+            "avg_gol": 2.2,
+            "pred": "X",
+            "ex_sc": "1 - 1",
+            "leage": "Sud\u00e1frica National First Division",
+            "participant1Name": "Casric Stars",
+            "participant2Name": "Upington City"
+        },
+        {
+            "event": "Bodrumspor SK - Istanbulspor AS",
+            "avg_gol": 1.25,
+            "pred": "1",
+            "ex_sc": "2 - 0",
+            "leage": "Turqu\u00eda TFF 1. Lig",
+            "participant1Name": "Bodrumspor SK",
+            "participant2Name": "Istanbulspor AS"
+        },
+        
+        {
+            "event": "Tixeraine - GC Mascara",
+            "avg_gol": 0.5,
+            "pred": "1",
+            "ex_sc": "1 - 0",
+            "leage": "Argelia Ligue 2",
+            "participant1Name": "Tixeraine",
+            "participant2Name": "GC Mascara"
+        },
+        {
+            "event": "JSM Tiaret - USM El Harrach",
+            "avg_gol": 2.33,
+            "pred": "1",
+            "ex_sc": "2 - 0",
+            "leage": "Argelia Ligue 2",
+            "participant1Name": "JSM Tiaret",
+            "participant2Name": "USM El Harrach"
+        },
+        {
+            "event": "RC Arbaa - MC Sa\u00efda",
+            "avg_gol": 2.13,
+            "pred": "X",
+            "ex_sc": "0 - 0",
+            "leage": "Argelia Ligue 2",
+            "participant1Name": "RC Arbaa",
+            "participant2Name": "MC Sa\u00efda"
+        },
+        {
+            "event": "ESM Kol\u00e9a - RC Kouba",
+            "avg_gol": 2.0,
+            "pred": "2",
+            "ex_sc": "0 - 1",
+            "leage": "Argelia Ligue 2",
+            "participant1Name": "ESM Kol\u00e9a",
+            "participant2Name": "RC Kouba"
+        },
+        {
+            "event": "US Bechar Djedid - CR T\u00e9mouchent",
+            "avg_gol": 2.08,
+            "pred": "2",
+            "ex_sc": "0 - 1",
+            "leage": "Argelia Ligue 2",
+            "participant1Name": "US Bechar Djedid",
+            "participant2Name": "CR T\u00e9mouchent"
+        },
+        {
+            "event": "JS El Biar - CRB Adrar",
+            "avg_gol": 1.5,
+            "pred": "1",
+            "ex_sc": "1 - 0",
+            "leage": "Argelia Ligue 2",
+            "participant1Name": "JS El Biar",
+            "participant2Name": "CRB Adrar"
+        },
+        {
+            "event": "WA Tlemcen - ASM Oran",
+            "avg_gol": 2.11,
+            "pred": "1",
+            "ex_sc": "2 - 0",
+            "leage": "Argelia Ligue 2",
+            "participant1Name": "WA Tlemcen",
+            "participant2Name": "ASM Oran"
+        },
+        {
+            "event": "Welayta Dicha - Mekelle 70",
+            "avg_gol": 1.4,
+            "pred": "1",
+            "ex_sc": "1 - 0",
+            "leage": "Etiop\u00eda Premier League",
+            "participant1Name": "Welayta Dicha",
+            "participant2Name": "Mekelle 70"
+        },
+        {
+            "event": "Al Hikma Beirut - Al Ahed Beirut",
+            "avg_gol": 2.8,
+            "pred": "2",
+            "ex_sc": "1 - 2",
+            "leage": "L\u00edbano Premier League",
+            "participant1Name": "Al Hikma Beirut",
+            "participant2Name": "Al Ahed Beirut"
+        },
+        {
+            "event": "Salmiya SC - Fahaheel SC",
+            "avg_gol": 1.91,
+            "pred": "1",
+            "ex_sc": "1 - 0",
+            "leage": "Kuwait Premier",
+            "participant1Name": "Salmiya SC",
+            "participant2Name": "Fahaheel SC"
+        },
+        {
+            "event": "Foolad Khuzestan - Paykan FC",
+            "avg_gol": 1.84,
+            "pred": "X",
+            "ex_sc": "1 - 1",
+            "leage": "Iran Persian Gulf Pro League",
+            "participant1Name": "Foolad Khuzestan",
+            "participant2Name": "Paykan FC"
+        },
+        {
+            "event": "Shamal SC - Al Wakra",
+            "avg_gol": 2.31,
+            "pred": "1",
+            "ex_sc": "2 - 0",
+            "leage": "Katar Stars League",
+            "participant1Name": "Shamal SC",
+            "participant2Name": "Al Wakra"
+        },
+        {
+            "event": "Al Fateh (KSA) - Taawoun",
+            "avg_gol": 2.21,
+            "pred": "2",
+            "ex_sc": "0 - 2",
+            "leage": "Arabia Saudita Professional League",
+            "participant1Name": "Al Fateh (KSA)",
+            "participant2Name": "Taawoun"
+        },
+        {
+            "event": "Celje - Legia Warszawa",
+            "avg_gol": 2.9,
+            "pred": "1",
+            "ex_sc": "2 - 1",
+            "leage": " Liga Europa Conferencia de la UEFA",
+            "participant1Name": "Celje",
+            "participant2Name": "Legia Warszawa"
+        },
+        {
+            "event": "Palmeiras - Santos",
+            "avg_gol": 2.98,
+            "pred": "1",
+            "ex_sc": "2 - 1",
+            "leage": "Brasil Brasileiro Serie A",
+            "participant1Name": "Palmeiras",
+            "participant2Name": "Santos"
+        }
+    ]
+}
